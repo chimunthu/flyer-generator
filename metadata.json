@@ -1,0 +1,7 @@
+{
+  "name": "Oficina do Futuro - Flyer Gen",
+  "description": "Uma aplicação inteligente para automatizar a criação de flyers profissionais para a Oficina do Futuro, utilizando IA para geração de imagens temáticas e design padronizado.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
